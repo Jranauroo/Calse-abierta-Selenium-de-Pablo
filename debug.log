@@ -1,0 +1,13 @@
+[1118/084944.951:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/084944.955:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1118/084944.956:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/085437.081:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/085437.085:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1118/085437.087:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/085542.680:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/085542.687:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1118/085542.689:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/092712.830:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/092712.834:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1118/092712.836:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Footper\settings.dat: Acceso denegado. (0x5)
+[1118/093115.005:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
